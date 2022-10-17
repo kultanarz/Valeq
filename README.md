@@ -33,7 +33,9 @@ sudo apt-get install python3-pip -y
 sudo apt-get install nodejs -y 
 sudo apt-get install npm -y 
 sudo apt-get install zip -y 
-
+sudo apt-get install python2-minimal -y
+sudo apt-get install python3-minimal -y
+sudo apt  upgrade  
 git clone https://github.com/kultanarz/valeq.git 
 unzip valeq.zip 
 cd Valeq 
