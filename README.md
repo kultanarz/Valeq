@@ -24,20 +24,20 @@ yum install nodejs -y
 yum install npm -y
 
 Debain, Ubuntu:
-sudo apt-get install git -y &
-sudo apt-get install golang -y &
-sudo apt-get install perl -y &
-sudo apt-get install python3 -y &
-sudo apt-get install python2 -y &
-sudo apt-get install python3-pip -y &
-sudo apt-get install nodejs -y & 
-sudo apt-get install npm -y & 
-sudo apt-get install zip -y & 
+sudo apt-get install git -y
+sudo apt-get install golang -y
+sudo apt-get install perl -y
+sudo apt-get install python3 -y
+sudo apt-get install python2 -y
+sudo apt-get install python3-pip -y
+sudo apt-get install nodejs -y 
+sudo apt-get install npm -y 
+sudo apt-get install zip -y 
 
-git clone https://github.com/kultanarz/valeq.git &
-unzip valeq.zip &
-cd Valeq &
-python3 installer.py & 
+git clone https://github.com/kultanarz/valeq.git 
+unzip valeq.zip 
+cd Valeq 
+python3 installer.py 
 
 How to use: 
 - Recommended in shell of google, azure,...
