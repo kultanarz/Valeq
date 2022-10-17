@@ -1,12 +1,12 @@
-sudo apt-get install git -y 
-sudo apt-get install golang -y 
-sudo apt-get install perl -y 
-sudo apt-get install python3 -y 
-sudo apt-get install python2 -y 
-sudo apt-get install python3-pip -y 
-sudo apt-get install nodejs -y  
-sudo apt-get install npm -y  
-sudo apt-get install zip -y  
+apt install git -y 
+apt install golang -y 
+apt install perl -y 
+apt install python3 -y 
+apt install python2 -y 
+apt install python3-pip -y 
+apt install nodejs -y  
+apt install npm -y  
+apt install zip -y  
 unzip valeq.zip 
 cd Valeq 
 python3 installer.py  
